@@ -17,8 +17,7 @@ def days_between(d1, d2):
 
 
 
-date1 = "1997-11-12"
-date2 = "2019-3-9"
-
+date1 = "2019-8-15"
+date2 = "2019-10-3"
 print(days_between(date1, date2))
     
